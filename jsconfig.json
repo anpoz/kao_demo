@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "checkJs": false
+    },
+    "exclude": [
+        "node_modules"
+    ],
+    "typeAcquisition": {
+        "include": [
+            "koa",
+            "koa-router"
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "hello-koa2",
+    "version": "1.0.0",
+    "description": "Hello Koa 2 example with async",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/anpoz/koa_demo.git"
+	},
+    "dependencies": {
+        "@types/koa": "^2.0.44",
+        "@types/koa-bodyparser": "^4.2.0",
+        "@types/koa-router": "^7.0.27",
+        "@types/mime": "^2.0.0",
+        "@types/nunjucks": "^3.0.0",
+        "koa": "^2.5.0",
+        "koa-bodyparser": "^4.2.0",
+        "koa-router": "^7.4.0",
+        "mime": "^2.2.0",
+        "mz": "^2.7.0",
+        "nunjucks": "^3.1.0"
+    }
+}
